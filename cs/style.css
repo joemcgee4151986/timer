@@ -1,0 +1,17 @@
+html{
+    font-size: 70px;
+    background-color:#add8e6;
+}
+
+body{
+    text-align: center;
+}
+.display__time-left {
+color:black;
+}
+.timer{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
